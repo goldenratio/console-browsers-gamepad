@@ -43,3 +43,4 @@ With `window.wiiu.gamepad` we can read Accelerometer, Gyroscope, Angle and Orien
 
 1. https://www.nintendo.com/wiiu/built-in-software/browser-specs/extended-functionality/ 
 2. `window.wiiu.gamepad` http://wiiubrew.org/wiki/Internet_Browser#wiiu.gamepad
+3. Sample page to obtain values from the Wii U GamePad - http://www.nintendo.com/wiiu/built-in-software/browser-specs/sample/
