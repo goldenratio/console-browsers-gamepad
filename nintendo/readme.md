@@ -14,7 +14,7 @@ The following buttons trigger the onkeydown, onkeypress  and onkeyup events:
 
 
 1. Other buttons do not trigger key events.
-2. Analog stick does not triggger mouse move event. It scrolls page.
+2. Analog stick does not triggger any event. It scrolls page.
 3. Touch events are supported on the bottom screen.
 
 ###### Related links:
