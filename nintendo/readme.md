@@ -13,6 +13,7 @@ The following buttons trigger the onkeydown, onkeypress and onkeyup events:
 | 39 | Right Arrow key |
 | 40 | Down Arrow key |
 
+Other buttons do not trigger key events.
 Touch events are supported on the secondary screen.
 
 Related links:
