@@ -37,6 +37,7 @@ The following buttons trigger the onkeydown and onkeyup events:
 | 40 | Down Arrow key |
 
 Also you can pool `window.wiiu.gamepad` to read the current state of the primary GamePad.
+With `window.wiiu.gamepad` we can read Accelerometer, Gyroscope, Angle and Orientation values.
  
 ###### Related links:
 
