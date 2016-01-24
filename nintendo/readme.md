@@ -1,6 +1,5 @@
 # New 3DS
 
-Browser supports HTML5 canvas.
 
 #### Key Events
 The following buttons trigger the onkeydown, onkeypress  and onkeyup events:
