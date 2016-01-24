@@ -1,6 +1,6 @@
 # XBOX One
 
-Internet Explorer on Xbox supports the HTML5 Gamepad API so websites can build interactivity around controller events. 
+Internet Explorer on Xbox One supports the HTML5 Gamepad API so websites can build interactivity around controller events. 
 
 ###### Related links:
 1. https://msdn.microsoft.com/en-us/library/dn532261(v=vs.85).aspx#controller 
