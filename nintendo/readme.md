@@ -3,7 +3,7 @@
 Browser supports HTML5 canvas.
 
 #### Key Events
-The following buttons trigger the onkeydown and onkeyup events:
+The following buttons trigger the onkeydown, onkeypress  and onkeyup events:
 
 | Keycode        | Button|
 | ------------- |:-------------:|
@@ -26,7 +26,7 @@ Touch events are supported on the secondary screen.
 Browser supports HTML5 canvas.
 
 #### Key Events
-The following buttons trigger the onkeydown and onkeyup events:
+The following buttons trigger the onkeydown, onkeypress  and onkeyup events:
 
 | Keycode        | Button|
 | ------------- |:-------------:|
