@@ -16,8 +16,8 @@ The following buttons trigger the onkeydown and onkeyup events:
 Other buttons do not trigger key events.
 Touch events are supported on the secondary screen.
 
-Related links:
-https://3dbrew.org/wiki/Internet_Browser
+###### Related links:
+1. https://3dbrew.org/wiki/Internet_Browser
 
 ---
 
@@ -38,7 +38,7 @@ The following buttons trigger the onkeydown and onkeyup events:
 
 Also you can pool `window.wiiu.gamepad` to read the current state of the primary GamePad.
  
-Related links:
+###### Related links:
 
-https://www.nintendo.com/wiiu/built-in-software/browser-specs/extended-functionality/
-`window.wiiu.gamepad` http://wiiubrew.org/wiki/Internet_Browser#wiiu.gamepad
+1. https://www.nintendo.com/wiiu/built-in-software/browser-specs/extended-functionality/ 
+2. `window.wiiu.gamepad` http://wiiubrew.org/wiki/Internet_Browser#wiiu.gamepad
