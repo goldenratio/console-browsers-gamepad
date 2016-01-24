@@ -12,7 +12,7 @@ The following buttons trigger the onkeydown, onkeypress  and onkeyup events:
 | Mouse Click | X |
 
 1. Other buttons do not trigger key events.
-2. Analog sticks  does not triggger mouse move event. (Left stick is used to scroll, right stick used for zoom in the browser)
+2. Analog sticks does not triggger any event. (Left stick is used to scroll, right stick used for zoom in the browser)
 3. Touch events are supported.
 
 ###### Related links:
