@@ -14,3 +14,6 @@ The following buttons trigger the onkeydown, onkeypress and onkeyup events:
 | 40 | Down Arrow key |
 
 Touch events are supported on the secondary screen.
+
+Related links:
+https://3dbrew.org/wiki/Internet_Browser
