@@ -44,6 +44,7 @@ The following buttons trigger the onkeydown, onkeypress  and onkeyup events:
 | 121 | R3  |
 
 1. L1 - Does not trigger any event. It is browser back button. Cannot be blocked.
+2. Touchpad on PS4 controller does not trigger any event.
 
 ###### Related links:
 1. N/A
