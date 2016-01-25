@@ -23,6 +23,27 @@ The following buttons trigger the onkeydown, onkeypress  and onkeyup events:
 
 #PS4
 
-todo:
+#### Key Events
+The following buttons trigger the onkeydown, onkeypress  and onkeyup events:
+
+| Keycode        | Button|
+| ------------- |:-------------:|
+| 37 | Left Arrow key |
+| 38 | Up Arrow key |
+| 39 | Right Arrow key |
+| 40 | Down Arrow key |
+| Mouse Click | X |
+| 27 | Circle |
+| 112 | Triangle |
+| 113 | Square  |
+| - | L1  |
+| 117 | R1  |
+| 118 | L2  |
+| 119 | R2  |
+| 120 | L3  |
+| 121 | R3  |
+
+1. L1 - Does not trigger any event. It is browser back button. Cannot be blocked.
 
 ###### Related links:
+1. N/A
