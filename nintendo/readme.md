@@ -18,7 +18,7 @@ The following buttons trigger the onkeydown, onkeypress  and onkeyup events:
 3. Button 'B' - back button. Cannot be blocked
 4. Button 'Y' and 'X' - Zoom in/out. Cannot be blocked
 5. R - Browser history forward
-6. L - Browser history baackward
+6. L - Browser history backward
 7. ZR / LR - Opens tabs list
 8. Touch events are supported on the bottom screen.
 
