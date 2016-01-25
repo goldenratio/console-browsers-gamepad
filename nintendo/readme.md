@@ -15,7 +15,12 @@ The following buttons trigger the onkeydown, onkeypress  and onkeyup events:
 
 1. Other buttons do not trigger key events.
 2. Analog stick does not triggger any event. It scrolls page.
-3. Touch events are supported on the bottom screen.
+3. Button 'B' - back button. Cannot be blocked
+4. Button 'Y' and 'X' - Zoom in/out. Cannot be blocked
+5. R - Browser history forward
+6. L - Browser history baackward
+7. ZR / LR - Opens tabs list
+8. Touch events are supported on the bottom screen.
 
 ###### Related links:
 1. https://3dbrew.org/wiki/Internet_Browser
