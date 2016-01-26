@@ -1,5 +1,6 @@
 # New 3DS
 
+##### HTML5 Gamepad API : Not Supported
 
 #### Key Events
 The following buttons trigger the onkeydown, onkeypress  and onkeyup events:
@@ -29,6 +30,7 @@ The following buttons trigger the onkeydown, onkeypress  and onkeyup events:
 
 # Wii U
 
+##### HTML5 Gamepad API : Not Supported
 
 #### Key Events
 The following buttons trigger the onkeydown, onkeypress  and onkeyup events:

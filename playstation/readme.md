@@ -1,5 +1,7 @@
 #PS Vita
 
+##### HTML5 Gamepad API : Not Supported
+
 #### Key Events
 The following buttons trigger the onkeydown, onkeypress  and onkeyup events:
 
@@ -22,6 +24,8 @@ The following buttons trigger the onkeydown, onkeypress  and onkeyup events:
 ---
 
 #PS4
+
+##### HTML5 Gamepad API : Not Supported
 
 #### Key Events
 The following buttons trigger the onkeydown, onkeypress  and onkeyup events:
