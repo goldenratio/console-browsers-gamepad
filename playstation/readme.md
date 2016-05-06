@@ -37,18 +37,20 @@ The following buttons trigger the onkeydown, onkeypress  and onkeyup events:
 | 39 | Right Arrow key |
 | 40 | Down Arrow key |
 | Mouse Click | X |
-| 27 | Circle |
-| 112 | Triangle |
-| 113 | Square  |
-| - | L1  |
-| 117 | R1  |
-| 118 | L2  |
-| 119 | R2  |
-| 120 | L3  |
-| 121 | R3  |
+| 27 | Circle* (Back button) |
+| 112 | Triangle* (opens browser search) |
+| 113 | Square* (Enters fullscreen) |
+| - | L1*  |
+| 117 | R1*  |
+| 118 | L2*  |
+| 119 | R2*  |
+| 120 | L3*  |
+| 121 | R3*  |
 
 1. L1 - Does not trigger any event. It is browser back button. Cannot be blocked.
 2. Touchpad on PS4 controller does not trigger any event.
+
+* - cannot be used for game input. It performs some browser action. Default event can't be prevented.
 
 ###### Related links:
 1. N/A
