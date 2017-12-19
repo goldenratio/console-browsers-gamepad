@@ -1,3 +1,9 @@
+# Nintendo Switch
+
+Web browser not supported at the moment.
+
+---
+
 # New 3DS
 
 ##### HTML5 Gamepad API : Not Supported
