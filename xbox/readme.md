@@ -1,4 +1,4 @@
-# XBOX One
+# XBOX One, XBOX One S
 
 ##### HTML5 Gamepad API : Supported
 

@@ -23,7 +23,7 @@ The following buttons trigger the onkeydown, onkeypress  and onkeyup events:
 
 ---
 
-# PS4
+# PS4, PS4 Pro
 
 ##### HTML5 Gamepad API : Not Supported
 
